@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Hasan\source\repos\HW6\HW6\main.cpp(44,17): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hasan\source\repos\HW6\HW6\main.cpp(40): warning C4715: 'calculate_rate': not all control paths return a value
+  HW6.vcxproj -> C:\Users\Hasan\source\repos\HW6\Debug\HW6.exe
